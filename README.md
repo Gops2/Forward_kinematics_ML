@@ -48,5 +48,3 @@ python inverse_kinematics_prediction.py
 - Use hyperparameter tuning (e.g., **GridSearchCV**).
 - Extend the model to include inverse kinematics solvers.
 
-## **License**
-This project is open-source under the **MIT License**.
